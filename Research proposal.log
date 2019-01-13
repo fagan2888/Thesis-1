@@ -1,21 +1,22 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.12.25)  5 JAN 2019 21:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.1.6)  7 JAN 2019 09:55
 entering extended mode
-**Research*proposal.tex
-("C:\Users\Yuheng Wang\Desktop\Thesis\Research proposal.tex"
-LaTeX2e <2018-04-01> patch level 5
+**C:/Users/Yuheng*Wang/Desktop/Thesis/Research*proposal.tex
+("C:/Users/Yuheng Wang/Desktop/Thesis/Research proposal.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\CTEX\MiKTeX\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (C:\CTEX\MiKTeX\tex\latex\base\size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -38,9 +39,9 @@ Package ifvtex Info: VTeX not detected.
 (C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -54,7 +55,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (C:\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg))
 (C:\CTEX\MiKTeX\tex\latex\apacite\apacite.sty
 Package: apacite 2012/02/25 v6.01 APA citation
-\c@BibCnt=\count91
+\c@BibCnt=\count90
 \bibleftmargin=\skip43
 \bibindent=\skip44
 \bibparsep=\skip45
@@ -73,27 +74,121 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen118
 \cmidrulekern=\dimen119
 \defaultaddspace=\dimen120
-\@cmidla=\count92
-\@cmidlb=\count93
+\@cmidla=\count91
+\@cmidlb=\count92
 \@aboverulesep=\dimen121
 \@belowrulesep=\dimen122
-\@thisruleclass=\count94
-\@lastruleclass=\count95
+\@thisruleclass=\count93
+\@lastruleclass=\count94
 \@thisrulewidth=\dimen123
 )
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen124
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen125
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks17
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks18
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks19
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count107
+))
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+)
+(C:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count108
+\float@exts=\toks21
+\float@box=\box28
+\@float@everytoks=\toks22
+\@floatcapt=\box29
+)
 ("C:\Users\Yuheng Wang\Desktop\Thesis\Research proposal.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -129,52 +224,124 @@ LaTeX Font Info:    ... okay on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@maskedRefs=\count96
+\c@maskedRefs=\count109
 (C:\CTEX\MiKTeX\tex\latex\apacite\english.apc
 File: english.apc 2012/02/25 v6.01 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 9.
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen135
+\scratchbox=\box30
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen136
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks24
+)
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
 
 
-LaTeX Warning: Citation `borjas1992self' undefined on input line 14.
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 17.
-("C:\Users\Yuheng Wang\Desktop\Thesis\Research proposal.bbl"
+ []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+[1
 
-) [1
+{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}] [2]
+<Bell.png, id=17, 963.6pt x 542.025pt>
+File: Bell.png Graphic file (type png)
+ <use Bell.png>
+Package pdftex.def Info: Bell.png used on input line 143.
+(pdftex.def)             Requested size: 300.0pt x 168.74554pt.
 
-{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
-("C:\Users\Yuheng Wang\Desktop\Thesis\Research proposal.aux")
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
-LaTeX Warning: There were undefined references.
+ []
 
- ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+("C:\Users\Yuheng Wang\Desktop\Thesis\Research proposal.bbl" [3 <C:/Users/Yuhen
+g Wang/Desktop/Thesis/Bell.png>]
+Underfull \hbox (badness 2772) in paragraph at lines 42--62
+[]\OT1/cmr/m/n/10 Borjas, G. J., Bronars, S. G., & Tre-jo, S. J.  (1992, Septem
+-ber).  Self-selection and in-ter-nal mi-gra-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 42--62
+\OT1/cmr/m/n/10 tion in the U-nit-ed S-tates.  \OT1/cmr/m/it/10 Jour-nal of Ur-
+ban E-co-nomic-s\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 32\OT1/cmr/m/n/10 (2), 159--
+185.  Re-trieved 2019-01-06, from
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 76--95
+[]\OT1/cmr/m/n/10 Cai, F., & Du, Y.  (2011, De-cem-ber).  Wage in-creas-es, wag
+e con-ver-gence, and the Lewis turn-
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 76--95
+\OT1/cmr/m/n/10 ing point in Chi-na.  \OT1/cmr/m/it/10 Chi-na E-co-nom-ic Re-vi
+ew\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 22\OT1/cmr/m/n/10 (4), 601--610.  Re-triev
+ed 2019-01-07, from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--178
+[]\OT1/cmr/m/n/10 Zhang, X., Yang, J., & Wang, S.  (2011, De-cem-ber).  Chi-na 
+has reached the Lewis turn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--178
+\OT1/cmr/m/n/10 ing point.  \OT1/cmr/m/it/10 Chi-na E-co-nom-ic Re-view\OT1/cmr
+/m/n/10 , \OT1/cmr/m/it/10 22\OT1/cmr/m/n/10 (4), 542--554.  Re-trieved 2019-01
+-07, from
+ []
+
+) [4] ("C:\Users\Yuheng Wang\Desktop\Thesis\Research proposal.aux") ) 
 Here is how much of TeX's memory you used:
- 1260 strings out of 494894
- 16649 string characters out of 3177420
- 82085 words of memory out of 3000000
- 4913 multiletter control sequences out of 15000+200000
- 7280 words of font info for 26 fonts, out of 3000000 for 9000
+ 2825 strings out of 495354
+ 36116 string characters out of 3183860
+ 108242 words of memory out of 3000000
+ 5979 multiletter control sequences out of 15000+200000
+ 8922 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 25i,6n,32p,210b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Research proposal.pdf" (1 page, 48661 bytes).
+ 27i,10n,32p,1129b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/CTEX/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7
+.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr17.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/C
+TEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mti10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Research proposal.pdf" (4 pages, 161644 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

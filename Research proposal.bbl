@@ -1,3 +1,240 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Borjas%
+}{%
+Borjas%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+borjas_self-selection_1987}
+\APACinsertmetastar {%
+borjas_self-selection_1987}%
+\begin{APACrefauthors}%
+Borjas, G\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1987}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Self-{Selection} and the {Earnings} of {Immigrants}}
+  {Self-{Selection} and the {Earnings} of {Immigrants}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The American Economic Review}{77}{4}{531--553}.
+\newblock
+\begin{APACrefURL} [{2019-01-07}]\url{https://www.jstor.org/stable/1814529}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Borjas%
+, Bronars%
+\BCBL {}\ \BBA {} Trejo%
+}{%
+Borjas%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1992}}%
+}]{%
+borjas_self-selection_1992}
+\APACinsertmetastar {%
+borjas_self-selection_1992}%
+\begin{APACrefauthors}%
+Borjas, G\BPBI J.%
+, Bronars, S\BPBI G.%
+\BCBL {}\ \BBA {} Trejo, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Self-selection and internal migration in the {United}
+  {States}} {Self-selection and internal migration in the {United}
+  {States}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Urban Economics}{32}{2}{159--185}.
+\newblock
+\begin{APACrefURL}
+  [{2019-01-06}]\url{http://www.sciencedirect.com/science/article/pii/0094119092900034}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/0094-1190(92)90003-4} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cai%
+\ \BBA {} Du%
+}{%
+Cai%
+\ \BBA {} Du%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+cai_wage_2011}
+\APACinsertmetastar {%
+cai_wage_2011}%
+\begin{APACrefauthors}%
+Cai, F.%
+\BCBT {}\ \BBA {} Du, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Wage increases, wage convergence, and the {Lewis}
+  turning point in {China}} {Wage increases, wage convergence, and the {Lewis}
+  turning point in {China}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{China Economic Review}{22}{4}{601--610}.
+\newblock
+\begin{APACrefURL}
+  [{2019-01-07}]\url{http://www.sciencedirect.com/science/article/pii/S1043951X11000605}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.chieco.2011.07.004} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hicks%
+}{%
+Hicks%
+}{%
+{\protect \APACyear {1963}}%
+}]{%
+hicks_theory_1963}
+\APACinsertmetastar {%
+hicks_theory_1963}%
+\begin{APACrefauthors}%
+Hicks, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1963}.
+\newblock
+\APACrefbtitle {The {Theory} of {Wages}} {The {Theory} of {Wages}}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\newblock
+\APACrefnote{Google-Books-ID: nhmwCwAAQBAJ}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sjaastad%
+}{%
+Sjaastad%
+}{%
+{\protect \APACyear {1962}}%
+}]{%
+sjaastad_costs_1962}
+\APACinsertmetastar {%
+sjaastad_costs_1962}%
+\begin{APACrefauthors}%
+Sjaastad, L\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1962}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {Costs} and {Returns} of {Human} {Migration}} {The
+  {Costs} and {Returns} of {Human} {Migration}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Political Economy}{70}{5}{80--93}.
+\newblock
+\begin{APACrefURL} [{2019-01-07}]\url{https://www.jstor.org/stable/1829105}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+, Yang%
+\BCBL {}\ \BBA {} Wang%
+}{%
+Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+zhang_china_2011}
+\APACinsertmetastar {%
+zhang_china_2011}%
+\begin{APACrefauthors}%
+Zhang, X.%
+, Yang, J.%
+\BCBL {}\ \BBA {} Wang, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {China has reached the {Lewis} turning point} {China has
+  reached the {Lewis} turning point}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{China Economic Review}{22}{4}{542--554}.
+\newblock
+\begin{APACrefURL}
+  [{2019-01-07}]\url{http://www.sciencedirect.com/science/article/pii/S1043951X11000587}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.chieco.2011.07.002} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhao%
+}{%
+Zhao%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+zhao_labor_1999}
+\APACinsertmetastar {%
+zhao_labor_1999}%
+\begin{APACrefauthors}%
+Zhao, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Labor {Migration} and {Earnings} {Differences}: {The}
+  {Case} of {Rural} {China}} {Labor {Migration} and {Earnings} {Differences}:
+  {The} {Case} of {Rural} {China}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Economic Development and Cultural
+  Change}{47}{4}{767--782}.
+\newblock
+\begin{APACrefURL}
+  [{2019-01-07}]\url{https://www.jstor.org/stable/10.1086/452431}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1086/452431} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhu%
+}{%
+Zhu%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+zhu_impacts_2002}
+\APACinsertmetastar {%
+zhu_impacts_2002}%
+\begin{APACrefauthors}%
+Zhu, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The impacts of income gaps on migration decisions in
+  {China}} {The impacts of income gaps on migration decisions in
+  {China}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{China Economic Review}{13}{2}{213--230}.
+\newblock
+\begin{APACrefURL}
+  [{2019-01-07}]\url{http://www.sciencedirect.com/science/article/pii/S1043951X02000743}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/S1043-951X(02)00074-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
